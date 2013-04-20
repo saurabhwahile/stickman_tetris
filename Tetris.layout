@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="include\Matrix.h" open="1" top="0" tabpos="8">
+		<Cursor position="98" topLine="0" />
+	</File>
+	<File name="include\Objects.h" open="1" top="0" tabpos="2">
+		<Cursor position="520" topLine="6" />
+	</File>
+	<File name="include\StickMan.h" open="1" top="0" tabpos="6">
+		<Cursor position="116" topLine="11" />
+	</File>
+	<File name="include\Transforms.h" open="0" top="0" tabpos="0">
+		<Cursor position="444" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="105" topLine="0" />
+	</File>
+	<File name="src\Matrix.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="101" topLine="2" />
+	</File>
+	<File name="src\Objects.cpp" open="1" top="1" tabpos="3">
+		<Cursor position="3787" topLine="0" />
+	</File>
+	<File name="src\StickMan.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="7287" topLine="200" />
+	</File>
+	<File name="src\Transforms.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="2863" topLine="89" />
+	</File>
+</CodeBlocks_layout_file>

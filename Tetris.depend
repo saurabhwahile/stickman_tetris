@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1362318428 source:c:\programming\c++ console\programs\tetris\tetris\src\matrix.cpp
+	<iostream>
+	"Matrix.h"
+
+1362830336 c:\programming\c++ console\programs\tetris\tetris\include\matrix.h
+
+1362830585 source:c:\programming\c++ console\programs\tetris\tetris\src\objects.cpp
+	"Objects.h"
+	"Matrix.h"
+	"Transforms.h"
+	<graphics.h>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1362829456 c:\programming\c++ console\programs\tetris\tetris\include\objects.h
+	"Matrix.h"
+
+1362832236 source:c:\programming\c++ console\programs\tetris\tetris\src\transforms.cpp
+	<iostream>
+	<math.h>
+	"Transforms.h"
+
+1362831968 c:\programming\c++ console\programs\tetris\tetris\include\transforms.h
+	"Matrix.h"
+
+1363082591 source:c:\programming\c++ console\programs\tetris\tetris\main.cpp
+	<iostream>
+	<graphics.h>
+	<dos.h>
+	"Objects.h"
+	"StickMan.h"
+
+1362999105 source:c:\programming\c++ console\programs\tetris\tetris\src\stickman.cpp
+	"StickMan.h"
+	<graphics.h>
+	<dos.h>
+	<iostream>
+
+1362832616 c:\programming\c++ console\programs\tetris\tetris\include\stickman.h
+	"Matrix.h"
+	"Transforms.h"
+
